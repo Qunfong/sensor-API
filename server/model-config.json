@@ -38,5 +38,9 @@
   "measurement": {
     "dataSource": "db",
     "public": true
+  },
+  "LoggingTemperatureHumidity": {
+    "dataSource": "db",
+    "public": true
   }
 }
