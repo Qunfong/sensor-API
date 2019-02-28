@@ -15,7 +15,7 @@
       "type": "string",
       "required": true
     },
-    "RH": {
+    "Humidity": {
       "type": "number",
       "required": true
     },

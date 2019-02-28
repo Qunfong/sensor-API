@@ -1,12 +1,12 @@
 {
   "db": {
-    "host": "192.168.1.20",
+    "host": "hostIP",
     "port": 3306,
-    "url": "",
-    "database": "RelayApp",
-    "password": "Printen#123",
+    "url": "databaseURL",
+    "database": "dbName",
+    "password": "password",
     "name": "db",
-    "user": "mes",
+    "user": "username",
     "connector": "mysql"
   }
 }
